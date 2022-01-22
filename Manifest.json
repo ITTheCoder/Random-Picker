@@ -1,0 +1,7 @@
+{
+    "name": "Random Picker",
+    "short_name": "RandomPicker",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/"
+  }
